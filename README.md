@@ -1,4 +1,4 @@
-### Olá! Meu nome é Carol <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Olá! Meu nome é Carol <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <div>
   <a href="https://github.com/carolmfreitas">
